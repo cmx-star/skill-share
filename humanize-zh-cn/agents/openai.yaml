@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文自然表达"
+  short_description: "把生硬的简体中文改成自然、准确、清楚且适合使用场景的表达"
+  default_prompt: "使用 $humanize-zh-cn 把这段中文改得自然、准确、好读。"

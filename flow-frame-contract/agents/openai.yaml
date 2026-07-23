@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frame Contract"
+  short_description: "Clarify goals, boundaries, and acceptance."
+  default_prompt: "Use $flow-frame-contract to clarify the goal, boundaries, and acceptance criteria."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source Design"
+  short_description: "Design with docs, seams, and interfaces."
+  default_prompt: "Use $flow-source-design to choose the documented design and public seam."

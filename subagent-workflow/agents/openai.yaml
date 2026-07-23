@@ -1,0 +1,7 @@
+interface:
+  display_name: "子代理协作"
+  short_description: "统一安排规划、开发和审查子代理的委派、验收与结果汇总流程"
+  default_prompt: "使用 $subagent-workflow 协助我委派子代理并汇总结果。"
+
+policy:
+  allow_implicit_invocation: true

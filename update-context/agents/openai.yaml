@@ -1,0 +1,4 @@
+interface:
+  display_name: "更新项目上下文"
+  short_description: "根据可核验证据整理项目上下文，并识别可复用的工作流资产"
+  default_prompt: "根据近期任务、现有资产和仓库证据检查重复工作流；只对证据充分且已获授权的缺口扩展资产，并更新项目 AI 上下文。"

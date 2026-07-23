@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slice Plan"
+  short_description: "Split scoped work into verifiable slices."
+  default_prompt: "Use $flow-slice-plan to split this task into verifiable implementation slices."

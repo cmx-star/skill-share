@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flow Verify"
+  short_description: "Verify completion with fresh evidence."
+  default_prompt: "Use $flow-verify to verify this work before claiming it is complete."

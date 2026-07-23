@@ -1,0 +1,7 @@
+interface:
+  display_name: "GitHub 社区调研"
+  short_description: "为技术规划和方案设计查找可信的公开 GitHub 参考实现"
+  default_prompt: "使用 $github-community 为这项技术方案查找公开 GitHub 参考实现和设计证据。"
+
+policy:
+  allow_implicit_invocation: true

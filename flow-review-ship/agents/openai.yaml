@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Ship"
+  short_description: "Review, release, and hand off safely."
+  default_prompt: "Use $flow-review-ship to review and prepare this work for handoff."

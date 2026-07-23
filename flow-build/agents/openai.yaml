@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flow Build"
+  short_description: "Implement one scoped coding slice."
+  default_prompt: "Use $flow-build to implement this scoped coding slice."

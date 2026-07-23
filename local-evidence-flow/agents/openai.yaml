@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Evidence Flow"
+  short_description: "Route software work to the right local flow."
+  default_prompt: "Use $local-evidence-flow to route this software task to the right stage."

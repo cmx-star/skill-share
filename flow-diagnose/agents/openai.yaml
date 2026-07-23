@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flow Diagnose"
+  short_description: "Find root cause before fixing failures."
+  default_prompt: "Use $flow-diagnose to diagnose this failure before proposing a fix."
